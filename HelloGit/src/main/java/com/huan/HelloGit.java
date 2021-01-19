@@ -5,5 +5,6 @@ public class HelloGit {
         System.out.println("欢姐不是好东西");
         System.out.println("昊哥是个好东西");
         System.out.println("创建分支");
+        System.out.println("分支添加");
     }
 }
